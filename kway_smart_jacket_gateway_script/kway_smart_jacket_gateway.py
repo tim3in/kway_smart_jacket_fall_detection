@@ -23,6 +23,6 @@ while True:
     uuidValue = btle.UUID("19b10000-2001-537e-4f6c-d104768a1214")
     inference_result = my_device_service.getCharacteristics(uuidValue)[0]
     payload = inference_result.read().decode('utf-8')
-    #print(payload)
+    # print(payload)
     client.publish('status', payload)
     time.sleep(1)
