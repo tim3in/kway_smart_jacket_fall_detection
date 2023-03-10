@@ -9,4 +9,8 @@ Project description is available at https://projecthub.arduino.cc/tim3in/f484b3a
 
 It is recommended to use Visual Studio Code and PlatformIO extension to compile and upload <b>kway_smart_jacket_firmware</b>. Following should be the configuration in the <i>platform.ini</i> file.
 
-<img src="https://github.com/tim3in/kway_smart_jacket_fall_detection/blob/main/pio_1.png?raw=true" width="800" >
+<img src="https://github.com/tim3in/kway_smart_jacket_fall_detection/blob/main/pio_1.png?raw=true" width="900" >
+
+Upload Edge Impulse model in the <i>lib</i> directory of the project and copy code from <i>kway_smart_jacket_firmware.ino</i> to <i>main.cpp</i>.
+
+<img src="https://github.com/tim3in/kway_smart_jacket_fall_detection/blob/main/pio_2.png?raw=true" width="900" >
