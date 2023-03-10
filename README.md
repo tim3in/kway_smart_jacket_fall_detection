@@ -23,3 +23,7 @@ The TinyML model for this project is available at Edge Impulse Public Project <a
 The Gateway script <i>kway_smart_jacket_gateway.py</i> should be uploaded and executed on the Raspberry Pi.
 
 <img src="https://github.com/tim3in/kway_smart_jacket_fall_detection/blob/main/gateway.png?raw=true" width="400" >
+
+The webapp <i>KWay_Smart_Jacket_WebApp</i> can be copied on any PC and is used for the status of the activity.
+
+<img src="https://github.com/tim3in/kway_smart_jacket_fall_detection/blob/main/web%20app.png?raw=true" width="800" >
