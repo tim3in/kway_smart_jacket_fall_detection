@@ -4,7 +4,7 @@ This project is used to monitor patient's activity and alerts if fall is detecte
 
 <img src="https://raw.githubusercontent.com/tim3in/kway_smart_jacket_fall_detection/main/cover%20image.jpg" width="500" >
 
-Project description is available at <a href="https://projecthub.arduino.cc/tim3in/f484b3a8-a8ae-4f55-884c-ff70bc44165a">here</a>
+Project description is available at <a href="https://projecthub.arduino.cc/tim3in/b7f86800-6369-4c0a-a977-17fb22a1cda1">here</a>
 
 The project has following architecture.
 
